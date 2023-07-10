@@ -49,7 +49,7 @@ function CreateOrder() {
 
       <Form method="POST">
         <div className="mb-5 flex gap-2 flex-col sm:flex-row sm:items-center">
-          <label for="firstName" className="sm:basis-40">
+          <label htmlFor="firstName" className="sm:basis-40">
             First Name
           </label>
           <div className="grow">
@@ -65,7 +65,7 @@ function CreateOrder() {
         </div>
 
         <div className="mb-5 flex gap-2 flex-col sm:flex-row sm:items-center">
-          <label for="phone" className="sm:basis-40">
+          <label htmlFor="phone" className="sm:basis-40">
             Phone number
           </label>
           <div className="grow">
@@ -85,7 +85,7 @@ function CreateOrder() {
         </div>
 
         <div className="mb-5 flex gap-2 flex-col sm:flex-row sm:items-center">
-          <label for="address" className="sm:basis-40">
+          <label htmlFor="address" className="sm:basis-40">
             Address
           </label>
           <div className="grow">
