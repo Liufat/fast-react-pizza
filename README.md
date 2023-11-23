@@ -1,13 +1,13 @@
 # Fast React Pizza
 
 模擬填寫資料後訂購Pizza的網站
+有購物車、下訂單時自動偵測位置、查詢訂單、修改訂單等功能
 
-* 設計/教學 by Jonas Schmedtmann
+* 此網站由Jonas Schmedtmann設計，所有內容僅供練習展示用
 
-# css架構
+# 前端技術
+使用React框架
+* React-Router
+* Redux
 
-使用Tailwindcss
 
-# React架構
-
-使用Vite建立基本架構
